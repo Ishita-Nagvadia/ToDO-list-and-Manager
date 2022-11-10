@@ -1,0 +1,63 @@
+.cnt{
+	width: 100%;
+	overflow-x: hidden; 
+	margin: auto;
+}
+.navbar{
+	display: flex;
+	width: 80%;
+	margin: auto;
+	margin-bottom: 30px;
+}
+.maintag{
+	width: 80%;
+	margin: auto;
+	text-align: left;
+}
+.img{
+	width: 110%;
+}
+.main{
+	height: 500px;
+}
+.adv{
+	height: 450px;
+	width: 75%;
+	margin: auto;
+}
+.card{
+	align-items: baseline;
+	border-radius: 18px;
+	max-height: 360px;
+}
+.card-img-top{
+	width: 60%;
+	align-self: center;
+	margin: 10px auto; 
+	align-items: baseline;
+}
+#card2{
+	padding-top: 20px;
+}
+#card3{
+	padding-top: 4px;
+	width: 75%;
+}
+.ftr{
+	margin-top: 30px;
+	height: 250px;
+	overflow: hidden;
+}
+.cs{
+	margin-left: 200px;
+}
+.fem{
+	float: center;
+	margin: 50px;
+	margin-left: 50px auto;
+	margin-right: 50px auto;
+	margin-bottom: 20px auto;
+}
+.mr-5{
+	margin-right : 5px;
+}
